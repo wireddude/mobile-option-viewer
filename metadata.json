@@ -1,0 +1,5 @@
+{
+  "name": "Options Portfolio Dashboard",
+  "description": "A visually appealing dashboard to display and analyze a portfolio of options trades from a JSON file. It provides key metrics, individual position details, and allows users to upload their own portfolio data.",
+  "requestFramePermissions": []
+}
